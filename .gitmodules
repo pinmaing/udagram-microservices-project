@@ -1,0 +1,12 @@
+[submodule "udagram-feed-api"]
+	path = udagram-feed-api
+	url = https://github.com/pinmaing/udagram-feed-api.git
+[submodule "udagram-reverse-proxy"]
+	path = udagram-reverse-proxy
+	url = https://github.com/pinmaing/udagram-reserve-proxy.git
+[submodule "udagram-frontend"]
+	path = udagram-frontend
+	url = https://github.com/pinmaing/udagram-frontend.git
+[submodule "udagram-user-api"]
+	path = udagram-user-api
+	url = https://github.com/pinmaing/udagram-user-api.git
